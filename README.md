@@ -13,3 +13,4 @@ How to sign and install Android App Immediately
 
 # Snack View Tool
 https://snack.expo.io/rJm_YkqyW
+https://www.pusher.com/tutorials/adding-analytics-react-native-app/
