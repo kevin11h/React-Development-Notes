@@ -20,3 +20,5 @@ https://stackoverflow.com/questions/29334984/render-html-in-react-native
 ## Analytics
 
 https://www.pusher.com/tutorials/adding-analytics-react-native-app/
+
+https://github.com/idehub/react-native-google-analytics-bridge
