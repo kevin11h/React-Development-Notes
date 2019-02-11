@@ -34,3 +34,12 @@ react-native-vector-icons - for adding icons in the app."
 
 
 https://github.com/idehub/react-native-google-analytics-bridge
+
+
+
+- [React Native](https://facebook.github.io/react-native/)
+- [Segment](https://segment.com/)
+- [Google Analytics](https://analytics.google.com/analytics/web/)
+- [Keen IO](https://keen.io/)
+- [react-native-analytics-segment-io](https://github.com/leoilab/react-native-analytics-segment-io)
+- [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
