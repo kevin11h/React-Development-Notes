@@ -18,7 +18,15 @@ https://snack.expo.io/rJm_YkqyW
 https://stackoverflow.com/questions/29334984/render-html-in-react-native
 
 ## Analytics
+https://app.segment.com
 
 https://www.pusher.com/tutorials/adding-analytics-react-native-app/
+
+`npm install react-native-analytics-segment-io react-native-device-info react-native-vector-icons --save`
+
+"react-native-analytics-segment-io - for implementing Segment within React Native.
+react-native-device-info - for getting relevant device info. This will be used as an additional data for analytics.
+react-native-vector-icons - for adding icons in the app."
+
 
 https://github.com/idehub/react-native-google-analytics-bridge
