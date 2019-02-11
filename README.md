@@ -28,5 +28,8 @@ https://www.pusher.com/tutorials/adding-analytics-react-native-app/
 react-native-device-info - for getting relevant device info. This will be used as an additional data for analytics.
 react-native-vector-icons - for adding icons in the app."
 
+`react-native link react-native-device-info`
+`react-native link react-native-vector-icons`
+
 
 https://github.com/idehub/react-native-google-analytics-bridge
