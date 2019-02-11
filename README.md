@@ -18,6 +18,9 @@ https://snack.expo.io/rJm_YkqyW
 https://stackoverflow.com/questions/29334984/render-html-in-react-native
 
 ## Analytics
+
+https://docs.aws.amazon.com/mobileanalytics/latest/ug/server-reference.html
+
 https://app.segment.com
 
 https://www.pusher.com/tutorials/adding-analytics-react-native-app/
