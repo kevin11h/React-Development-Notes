@@ -29,6 +29,7 @@ react-native-device-info - for getting relevant device info. This will be used a
 react-native-vector-icons - for adding icons in the app."
 
 `react-native link react-native-device-info`
+
 `react-native link react-native-vector-icons`
 
 
